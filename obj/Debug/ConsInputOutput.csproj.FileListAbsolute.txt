@@ -1,0 +1,14 @@
+E:\DotNetFreshersBatchJan2021\ConsoleApps\ConsInputOutput\ConsInputOutput\bin\Debug\ConsInputOutput.exe.config
+E:\DotNetFreshersBatchJan2021\ConsoleApps\ConsInputOutput\ConsInputOutput\bin\Debug\ConsInputOutput.exe
+E:\DotNetFreshersBatchJan2021\ConsoleApps\ConsInputOutput\ConsInputOutput\bin\Debug\ConsInputOutput.pdb
+E:\DotNetFreshersBatchJan2021\ConsoleApps\ConsInputOutput\ConsInputOutput\obj\Debug\ConsInputOutput.csprojAssemblyReference.cache
+E:\DotNetFreshersBatchJan2021\ConsoleApps\ConsInputOutput\ConsInputOutput\obj\Debug\ConsInputOutput.csproj.CoreCompileInputs.cache
+E:\DotNetFreshersBatchJan2021\ConsoleApps\ConsInputOutput\ConsInputOutput\obj\Debug\ConsInputOutput.exe
+E:\DotNetFreshersBatchJan2021\ConsoleApps\ConsInputOutput\ConsInputOutput\obj\Debug\ConsInputOutput.pdb
+C:\Users\Pooja\Desktop\DotNetProgram\ClassSessionCoverTopic-\ConsInputOutput\ConsInputOutput\bin\Debug\ConsInputOutput.exe.config
+C:\Users\Pooja\Desktop\DotNetProgram\ClassSessionCoverTopic-\ConsInputOutput\ConsInputOutput\bin\Debug\ConsInputOutput.exe
+C:\Users\Pooja\Desktop\DotNetProgram\ClassSessionCoverTopic-\ConsInputOutput\ConsInputOutput\bin\Debug\ConsInputOutput.pdb
+C:\Users\Pooja\Desktop\DotNetProgram\ClassSessionCoverTopic-\ConsInputOutput\ConsInputOutput\obj\Debug\ConsInputOutput.csprojAssemblyReference.cache
+C:\Users\Pooja\Desktop\DotNetProgram\ClassSessionCoverTopic-\ConsInputOutput\ConsInputOutput\obj\Debug\ConsInputOutput.csproj.CoreCompileInputs.cache
+C:\Users\Pooja\Desktop\DotNetProgram\ClassSessionCoverTopic-\ConsInputOutput\ConsInputOutput\obj\Debug\ConsInputOutput.exe
+C:\Users\Pooja\Desktop\DotNetProgram\ClassSessionCoverTopic-\ConsInputOutput\ConsInputOutput\obj\Debug\ConsInputOutput.pdb

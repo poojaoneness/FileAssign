@@ -1,0 +1,1 @@
+We are understanding the static class FileNew content appended in static file
